@@ -1,4 +1,4 @@
-# To run the code, open it in a terminal and run the following two commands
+#### To run the code, open it in a terminal and run the following two commands:
 
-## npm install
-## npm start
+##### npm install
+##### npm start
